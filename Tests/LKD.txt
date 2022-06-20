@@ -1,0 +1,6 @@
+x:=6;
+y:=9;
+while not x=y do
+    if x=<y then y:=y-x
+    else x:=x-y fi
+od

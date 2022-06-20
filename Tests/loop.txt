@@ -1,0 +1,12 @@
+{p,q}
+[r1,r2,r3]
+x:=1;
+while {1} x<100 do
+    x:=x+5;
+    while {3} y<100 do
+        y:=y+5
+    od
+od;
+while {2} z<100 do
+    z:=z+5
+od

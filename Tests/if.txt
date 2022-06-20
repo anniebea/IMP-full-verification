@@ -1,0 +1,3 @@
+{p,q}
+if x=<y then a:=1; b:=1
+else a:=2 fi

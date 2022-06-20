@@ -1,0 +1,8 @@
+{n=N>=0,s=N^2}
+[n=N and (i-1)<=n and s=(i-1)^2]
+i := 1;
+s := 0;
+while {1} i =< n do
+	s := s + 2*i - 1;
+	i := i + 1
+od

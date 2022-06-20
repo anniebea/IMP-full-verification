@@ -1,0 +1,2 @@
+if x and y and z then x:=4
+else x:=5 fi

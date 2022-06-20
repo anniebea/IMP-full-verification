@@ -1,0 +1,6 @@
+i := 1;
+s := 0;
+while i =< n do
+	s := s + 2*i - 1;
+	i := i + 1
+od
